@@ -7,3 +7,14 @@ def prime?(number)
     return false
   end
 end
+
+# def prime?(i)
+#  if i >= 2
+#    i = (2..10).to_a
+#    n = rand(2..10)
+#    i.each{|i| i % n != 0}
+#  else
+#    return false
+#  end  
+# end
+# Returns the array
